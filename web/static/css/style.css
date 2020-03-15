@@ -1,5 +1,10 @@
 .card {
-    background-color: grey;
+    background-color: whitesmoke;
+    border: 1px solid black;
     height: 500px;
-    margin-top: 50%
+    margin-top: 25%
+}
+
+.new-user-link {
+    margin-top: 10px;
 }
